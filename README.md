@@ -1,24 +1,11 @@
-# README
+# Coding task
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installing the app
 
-Things you may want to cover:
+To install the app you should be able to clone this repo, then run `yarn install` on the command line in the project.
 
-* Ruby version
+## Running the app
 
-* System dependencies
+To start the app you can run `yarn run dev` to start the app in development mode
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+That's it, enjoy!
